@@ -30,3 +30,5 @@ This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) i
 * Para o Back usei o comando 
 `bun run .\src\index.ts`<br>
  
+### A Amazon bloqueou meu ip impossibilitando o scrap foi feito a tentativa de prox para contornar nos sites "ScraperAPI" e "ProxyScrape"
+sem sucesso
